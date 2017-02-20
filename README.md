@@ -1,2 +1,0 @@
-# RutasGeo
-landing page rutasGeo
